@@ -1,4 +1,4 @@
-bin/local-lib-profile_bashrc
+bin/local-lib-profiles_bashrc
 Build.PL
 Changes
 ignore.txt
@@ -6,6 +6,7 @@ lib/local/lib/profiles.pm
 lib/local/lib/profiles/activate.sh
 Makefile.PL
 MANIFEST			This list of files
+MANIFEST.SKIP
 META.yml
 README
 t/00-load.t
